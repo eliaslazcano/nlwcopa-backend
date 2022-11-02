@@ -14,3 +14,8 @@ npx prisma migrate dev
 ```
 npx prisma studio
 ```
+
+## Criar o diagrama entidade relacionamento do banco de dados
+```
+npx prisma generate
+```
